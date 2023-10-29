@@ -9,6 +9,9 @@ An application for fraud detection in medicine packages and tablets.
 - Extracted the labeled text in a csv file and used Jaccard Similarity scores to detect fraud between the information on the packaging and the tablets.
 - Built an user friendly dashboard with Streamlit.
 
-#### In this repo I will be putting the demo video as well as a marketing video for our application and a report of all the work done.
+#### Here is the demo video as well as a marketing video for our application
+[Click here](https://drive.google.com/drive/folders/1zMqsyNe_j2EM4W50iTcAAprh4q-bZBoB?usp=drive_link)
+
+#### In this repo I will be also putting a report of all the work done.
 
 
